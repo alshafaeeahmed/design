@@ -5,7 +5,7 @@ const Selection = () => {
   return (
     <View style={styles.selectionWrapper}>
       <View style={styles.selection}>
-        <Image source={require('./images/image_1.png')} style={styles.group} />
+        <Image source={require('../images/image_1.png')} style={styles.group} />
       </View>
     </View>
   );
