@@ -1,12 +1,12 @@
 import {View} from 'react-native';
-import Selection from './src/selection';
-import searchBar from './src/search';
+import ShowTime from './src/showTime';
 
 const App = () => {
   return (
     <View>
-      <Selection />
-      <searchBar />
+      {/* <Selection /> */}
+      {/* <searchBar />  */}
+      <ShowTime />
     </View>
   );
 };
