@@ -1,5 +1,5 @@
 import {View} from 'react-native';
-import ShowTime from './src/showTime';
+import ShowTime from './src/reactHookExs/showTime';
 
 const App = () => {
   return (
